@@ -1,0 +1,28 @@
+name: Ciele Athletics Inc.
+favicon: null
+layout_spectrum: 0.8873483520001173
+typography_spectrum: 0.5141823112498969
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7747694370336831
+  lightness: 0.42448137840256095
+  saturation: 0.5379601754248142
+  rhythmicContrast: 0.053269253112375736
+purpose: []
